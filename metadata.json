@@ -1,0 +1,6 @@
+{
+  "name": "Language Learning App",
+  "description": "An interactive web application for learning HTML, CSS, JavaScript, PHP, and C++ with bite-sized lessons and a comprehensive 50-question quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
